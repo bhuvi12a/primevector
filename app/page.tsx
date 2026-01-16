@@ -25,8 +25,8 @@ export default function Home() {
               <Image
                 src="/images/logo.png"
                 alt="PrimeCraft Interiors Logo"
-                width={250}
-                height={250}
+                width={400}
+                height={400}
                 priority
                 className={styles.heroLogoImage}
               />
@@ -36,9 +36,7 @@ export default function Home() {
               <span className="text-gradient"> Extraordinary </span>
               Experiences
             </h1>
-            <p className={`${styles.heroSubtitle} animate-fadeIn`}>
-              END TO END INTERIORS WORK - We value your investments
-            </p>
+
             <div className={`${styles.heroButtons} animate-fadeIn`}>
               <Button variant="primary" size="lg" href="/portfolio">
                 View Portfolio

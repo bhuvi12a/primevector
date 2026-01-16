@@ -36,10 +36,7 @@
     font-family: var(--font-heading);
     font-size: var(--text-2xl);
     font-weight: 700;
-    background: var(--gradient-purple-gold);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    color: #D4AF37;
     margin-bottom: 0;
 }
 

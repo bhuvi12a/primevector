@@ -59,8 +59,8 @@
 }
 
 .heroLogoImage {
-  width: 250px;
-  height: 250px;
+  width: 400px;
+  height: 400px;
   object-fit: contain;
   filter: drop-shadow(0 4px 20px rgba(168, 85, 247, 0.3));
 }
@@ -413,8 +413,8 @@
   }
 
   .heroLogoImage {
-    width: 180px;
-    height: 180px;
+    width: 400px;
+    height: 400px;
   }
 
   .heroTitle {
@@ -486,8 +486,8 @@
   }
 
   .heroLogoImage {
-    width: 120px;
-    height: 120px;
+    width: 280px;
+    height: 280px;
   }
 
   .heroTitle {
